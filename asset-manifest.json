@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.de97cc33.css",
-    "main.js": "/static/js/main.9cc5a657.js",
-    "static/js/787.dadaf769.chunk.js": "/static/js/787.dadaf769.chunk.js",
-    "static/media/paper.jpg": "/static/media/paper.ac6d91d68dbacfd7145a.jpg",
-    "index.html": "/index.html",
-    "main.de97cc33.css.map": "/static/css/main.de97cc33.css.map",
-    "main.9cc5a657.js.map": "/static/js/main.9cc5a657.js.map",
-    "787.dadaf769.chunk.js.map": "/static/js/787.dadaf769.chunk.js.map"
+    "main.css": "/metrograph_weekly/static/css/main.10d5b9dc.css",
+    "main.js": "/metrograph_weekly/static/js/main.b0b32933.js",
+    "static/js/787.dadaf769.chunk.js": "/metrograph_weekly/static/js/787.dadaf769.chunk.js",
+    "static/media/paper.jpg": "/metrograph_weekly/static/media/paper.ac6d91d68dbacfd7145a.jpg",
+    "index.html": "/metrograph_weekly/index.html",
+    "main.10d5b9dc.css.map": "/metrograph_weekly/static/css/main.10d5b9dc.css.map",
+    "main.b0b32933.js.map": "/metrograph_weekly/static/js/main.b0b32933.js.map",
+    "787.dadaf769.chunk.js.map": "/metrograph_weekly/static/js/787.dadaf769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de97cc33.css",
-    "static/js/main.9cc5a657.js"
+    "static/css/main.10d5b9dc.css",
+    "static/js/main.b0b32933.js"
   ]
 }
